@@ -1,2 +1,1 @@
-# dev_java
-Java 笔记
+# Java
